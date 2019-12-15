@@ -1,0 +1,14 @@
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\bin\Debug\netcoreapp2.1\PoetGuide.deps.json
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\bin\Debug\netcoreapp2.1\PoetGuide.runtimeconfig.json
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\bin\Debug\netcoreapp2.1\PoetGuide.runtimeconfig.dev.json
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\bin\Debug\netcoreapp2.1\PoetGuide.dll
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\bin\Debug\netcoreapp2.1\PoetGuide.pdb
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.csprojAssemblyReference.cache
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.RazorAssemblyInfo.cache
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.RazorAssemblyInfo.cs
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.AssemblyInfoInputs.cache
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.AssemblyInfo.cs
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.RazorTargetAssemblyInfo.cache
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.dll
+C:\Users\GAMZE\source\repos\PoetGuide\PoetGuide\obj\Debug\netcoreapp2.1\PoetGuide.pdb
